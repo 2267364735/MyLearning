@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyLearning\\C\\hello world\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44831D23-0630-4A67-BF9A-5A44CC9189CD}|hello world\\hello world.vcxproj|D:\\MyLearning\\C\\hello world\\hello world\\hello world.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44831D23-0630-4A67-BF9A-5A44CC9189CD}|hello world\\hello world.vcxproj|solutionrelative:hello world\\hello world.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hello world.c",
+              "DocumentMoniker": "D:\\MyLearning\\C\\hello world\\hello world\\hello world.c",
+              "RelativeDocumentMoniker": "hello world\\hello world.c",
+              "ToolTip": "D:\\MyLearning\\C\\hello world\\hello world\\hello world.c",
+              "RelativeToolTip": "hello world\\hello world.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-11T15:10:00.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
