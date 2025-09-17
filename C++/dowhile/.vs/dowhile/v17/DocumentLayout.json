@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyLearning\\C\u002B\u002B\\dowhile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32468E05-23A1-4EC7-A1D5-E19E26EE43FA}|dowhile\\dowhile.vcxproj|D:\\MyLearning\\C\u002B\u002B\\dowhile\\dowhile\\dowhile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32468E05-23A1-4EC7-A1D5-E19E26EE43FA}|dowhile\\dowhile.vcxproj|solutionrelative:dowhile\\dowhile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dowhile.cpp",
+              "DocumentMoniker": "D:\\MyLearning\\C\u002B\u002B\\dowhile\\dowhile\\dowhile.cpp",
+              "RelativeDocumentMoniker": "dowhile\\dowhile.cpp",
+              "ToolTip": "D:\\MyLearning\\C\u002B\u002B\\dowhile\\dowhile\\dowhile.cpp",
+              "RelativeToolTip": "dowhile\\dowhile.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-16T17:31:09.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
